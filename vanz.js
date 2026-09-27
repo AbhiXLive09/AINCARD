@@ -16,7 +16,7 @@
 
   // ─── Key Manual (Bypass License) ─────────────────────────────────────────────
   const VALID_KEYS = [
-    "psteamadm", 
+    "HERO BYPASS", 
   ];
 
   const FALLBACK_MUSIC_URL = "https://raw.githubusercontent.com/vanz-website/VanzBypass/main/music.mp3";
@@ -29,8 +29,8 @@
     document.getElementById("vanz-auth-box")?.remove();
     document.getElementById("vanz-floating-credit")?.remove();
 
-    const titleName    = "VANZ VIP";
-    const telegramLink = "https://t.me/stokvanzz12";
+    const titleName    = "HERO CONFIG";
+    const telegramLink = "https://t.me/+woLuVKkBQ1Y1ZGM1";
 
     // ── Inject CSS Animasi Mode Dewa (Laser Scan, Hex Orbit, & Glitch Extreme) ─
     const styleEl = document.createElement("style");
