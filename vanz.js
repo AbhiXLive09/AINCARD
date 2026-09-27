@@ -401,7 +401,7 @@
           `;
           document.getElementById("vanz-btn-fast").addEventListener("click",   () => runRedirect(30));
           document.getElementById("vanz-btn-secure").addEventListener("click", () => runRedirect(45));
-          document.getElementById("vanz-btn-safe").addEventListener("click",   () => runRedirect(60));
+          document.getElementById("vanz-btn-safe").addEventListener("click",   () => runRedirect(90));
         }, 800);
 
       } else {
